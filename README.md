@@ -1,2 +1,2 @@
-# mapmyrun-spreedsheet
-a script to take mapmyrun data and record times in libreoffice calc or other office suite software 
+# to-do-excel
+record tasks or events and import them into an excel workbook using a script
